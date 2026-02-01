@@ -17,7 +17,7 @@ Ek professional Python-Flask based web application jo tumchya PC cha real-time C
 
 ## 🚀 Installation & Setup
 
-1. **Repository Clone kara:**
+1. **Repository Clone:**
    ```bash
    git clone [https://github.com/durgeshkhade07-sudo/System-Health-Monitor.git](https://github.com/durgeshkhade07-sudo/System-Health-Monitor.git)
    cd System-Health-Monitor
